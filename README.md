@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p><img src="https://komarev.com/ghpvc/?username=iloElias&label=Profile%20views&color=0e75b6&style=flat" alt="iloelias" /> </p>
-
 - 🌱 I’m currently learning **Git**
-
-- 👨‍💻 All of my projects are available at [None Yet](None Yet)
 
 - 💬 Ask me about **Front-end things, and OOP, my favorites**
 
