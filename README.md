@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **PHP Composer**
 
 - 💬 Ask me about **Front-end things, and OOP, my favorites**
 
