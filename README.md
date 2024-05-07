@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **murilo7456@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iloelias&show_icons=true&locale=en&theme=dracula" alt="iloelias" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/murilo-elias-487b7a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo elias" height="30" width="40" /></a>
@@ -141,5 +143,3 @@
             width="40" height="40" />
     </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iloelias&show_icons=true&locale=en&theme=dracula" alt="iloelias" /></p>
