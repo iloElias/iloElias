@@ -47,7 +47,11 @@
             alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://lua.org" target="_blank" rel="noreferrer">
-        <img src="https://www.lua.org/images/lua30.gif"
+        <img src="https://www.lua.org/favicon.ico"
+            alt="nodejs" width="40" height="40" />
+    </a>
+    <a href="https://luau-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://luau-lang.org/favicon.ico"
             alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
