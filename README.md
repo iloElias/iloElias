@@ -45,8 +45,7 @@
             width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="background-color: white; border-radius: 8px" alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://lua.org" target="_blank" rel="noreferrer">
         <img src="https://www.lua.org/favicon.ico"
@@ -58,7 +57,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://expressjs.com/images/favicon.png"
-        alt="express" width="40" height="40" />
+        alt="express" style="border-radius: 8px" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -116,16 +115,16 @@
 <h4 align="left">Engines:</h4>
 <p align="left">
     <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/946/106/png-transparent-unity-white-logo-tech-companies.png" alt="unity" width="40" height="40" />
+        <img src="https://create.roblox.com/65d74dd3fadde84e51f89466b9ea709a37ce2ddf/assets/favicon.ico" alt="unity" width="40" height="40" />
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
+        <img src="https://assets.stickpng.com/images/62e131df7fe3599fdd46ecb3.png" alt="unity" style="background-color: white; border-radius: 8px" width="40" height="40" />
     </a>
 </p>
 <h4 align="left">Other tools:</h4>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="background-color: white; border-radius: 8px" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -143,3 +142,10 @@
             width="40" height="40" />
     </a>
 </p>
+
+<style>
+    p {
+        display: flex;
+        gap: 8px
+    }
+</style>
