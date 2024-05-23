@@ -116,10 +116,10 @@
 <h4 align="left">Engines:</h4>
 <p align="left">
     <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
-        <img src="https://create.roblox.com/65d74dd3fadde84e51f89466b9ea709a37ce2ddf/assets/favicon.ico" alt="unity" width="40" height="40" />
+        <img src="https://w7.pngwing.com/pngs/946/106/png-transparent-unity-white-logo-tech-companies.png" alt="unity" width="40" height="40" />
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" alt="unity" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
 </p>
 <h4 align="left">Other tools:</h4>
