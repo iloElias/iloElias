@@ -142,9 +142,3 @@
             width="40" height="40" />
     </a>
 </p>
-<style>
-    p {
-        display: flex;
-        gap: 8px
-    }
-</style>
