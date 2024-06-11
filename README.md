@@ -118,7 +118,7 @@
         <img src="https://create.roblox.com/65d74dd3fadde84e51f89466b9ea709a37ce2ddf/assets/favicon.ico" alt="unity" width="40" height="40" />
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://assets.stickpng.com/images/62e131df7fe3599fdd46ecb3.png" alt="unity" style="background-color: white; border-radius: 8px" width="40" height="40" />
+        <img src="https://cdn.discordapp.com/emojis/530877634067038208.png?size=100" alt="unity" style="background-color: white; border-radius: 8px" width="40" height="40" />
     </a>
 </p>
 <h4 align="left">Other tools:</h4>
