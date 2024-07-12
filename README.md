@@ -7,7 +7,10 @@
 
 - 📫 How to reach me **murilo7456@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iloelias&show_icons=true&locale=en&theme=dracula" alt="iloelias" /></p>
+<div align="center" style="display: inline_block"><br>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=iloElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iloElias&hide=css,scss,html&layout=compact&langs_count=6&theme=dracula&include_all_commits=true&count_private=true&card_width=430em"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
