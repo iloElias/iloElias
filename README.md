@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **murilo7456@gmail.com**
 
-![](https://hit.yhype.me/github/profile?user_id=106710958)
-
 <div align="left" style="display: inline_block"><br>
   <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api?username=iloElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iloElias&hide=css,scss,html&layout=compact&langs_count=6&theme=dracula&include_all_commits=true&count_private=true&card_width=200em"/>
@@ -16,134 +14,163 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/murilo-elias-487b7a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo elias" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/murilo-elias-487b7a226/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="murilo elias"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-end:</h4>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
+            alt="html5"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"
+            alt="css3"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
+            alt="javascript"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"
+            alt="typescript"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React JS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
+        <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"
+            alt="react"/>
     </a>
 </p>
 <h4 align="left">Back-end:</h4>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" />
+        <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php"
+           />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node JS">
-        <img src="https://cdn.discordapp.com/emojis/779733522066702346.webp?size=48" style="background-color: white; border-radius: 8px" alt="nodejs" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+    </a>
+    <a href="https://typestrong.org/ts-node/" target="_blank" rel="noreferrer" title="Typescript Node">
+        <img src="https://img.shields.io/badge/tsnode-3178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white" alt="tsnode"/>
     </a>
     <a href="https://lua.org" target="_blank" rel="noreferrer" title="Lua">
-        <img src="https://www.lua.org/favicon.ico"
-            alt="nodejs" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white"
+            alt="nodejs"/>
     </a>
-    <a href="https://luau-lang.org/" target="_blank" rel="noreferrer" title="Luau">
+    <!-- <a href="https://luau-lang.org/" target="_blank" rel="noreferrer" title="Luau">
         <img src="https://luau-lang.org/favicon.ico"
-            alt="nodejs" width="40" height="40" />
-    </a>
+            alt="nodejs"/>
+    </a> -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express JS">
-        <img src="https://expressjs.com/images/favicon.png"
-        alt="express" style="border-radius: 8px" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"
+        alt="express"/>
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"
+           />
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C Sharp">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"
+            alt="csharp"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
     </a>
 </p>
 <h4 align="left">Package Managers:</h4>
 <p align="left">
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM JS">
-        <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
-            alt="postgresql" width="40" height="40" />
+        <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
+            alt="npm"/>
     </a>
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer" title="Yarn JS">
-        <img src="https://yarnpkg.com/img/yarn-favicon.svg"
-            alt="postgresql" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white"
+            alt="yarn"/>
     </a>
     <a href="https://getcomposer.org/" target="_blank" rel="noreferrer" title="Composer">
-        <img src="https://getcomposer.org/favicon.ico"
-            alt="postgresql" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white"
+            alt="composer"/>
     </a>
 </p>
 <h4 align="left">Databases:</h4>
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"
+            alt="postgresql"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"
+            alt="mysql"/>
     </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"
+            alt="redis"/>
     </a>
 </p>
 <h4 align="left">Softwares:</h4>
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" />
+        <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" alt="blender"
+           />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
     </a>
 </p>
-<h4 align="left">Engines:</h4>
+<h4 align="left">Game Engines:</h4>
 <p align="left">
     <a href="https://create.roblox.com/" target="_blank" rel="noreferrer" title="Roblox Studio">
-        <img src="https://create.roblox.com/65d74dd3fadde84e51f89466b9ea709a37ce2ddf/assets/favicon.ico" alt="unity" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF.svg?style=for-the-badge&logo=Roblox-Studio&logoColor=white" alt="roblox studio"/>
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer" title="Unity">
-        <img src="https://cdn.discordapp.com/emojis/530877634067038208.png?size=100" alt="unity" style="background-color: white; border-radius: 8px" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="unity" style="background-color: white; border-radius: 8px"/>
+    </a>
+</p>
+<h4 align="left">Operational Systems</h4>
+<p align="left">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
+        <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux"
+           />
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" title="Ubuntu">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="ubuntu"
+           />
+    </a>
+    <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer" title="Windows">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"
+           />
     </a>
 </p>
 <h4 align="left">Other tools:</h4>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+        <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="bash"/>
+    </a>
+    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer" title="Insomnia">
+        <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white"
+        alt="insomnia"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"
+        alt="docker"/>
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title="Nginx">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
+        <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white" alt="nginx"
+           />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git"/>
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Github">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="github"/>
     </a>
 </p>
+
+<style style="display: none">
+    a img {
+        border-radius: 6px;
+    }
+</style>
+
+![](https://hit.yhype.me/github/profile?user_id=106710958)
