@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Front-end things, and OOP, my favorites**
 
-- 📫 How to reach me **murilo7456@gmail.com**
+- 📫 How to reach me **iloelias.dev@gmail.com**
 
 <div align="left" style="display: inline_block"><br>
   <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api?username=iloElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
