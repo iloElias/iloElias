@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **How to handle HTTP requests with PHP**
+- 🌱 I’m currently learning **Electron, desktop app creator**
 
 - 💬 Ask me about **Front-end things, and OOP, my favorites**
 
