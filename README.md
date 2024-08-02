@@ -41,6 +41,10 @@
         <img style="border-radius: 5px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"
             alt="react"/>
     </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
+        <img style="border-radius: 5px" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"
+            alt="react"/>
+    </a>
 </p>
 <h4 align="left">Back-end:</h4>
 <p align="left">
