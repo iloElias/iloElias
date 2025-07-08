@@ -7,13 +7,9 @@
 
 - 📫 How to reach me [**iloelias.dev@gmail.com**](mailto:iloelias.dev@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iloElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iloElias&hide=css,scss,html&layout=compact&langs_count=6&theme=dracula&include_all_commits=true&count_private=true&card_width=200em)
-
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/murilo-elias-487b7a226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/murilo-elias/)
 
 ### Languages and Tools
 
