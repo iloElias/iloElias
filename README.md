@@ -5,6 +5,7 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 ## Current Focus
 
 - Focused on **geolocation, route planning, and map-based logistics**.
+- Project: [Agrofast](https://agrofast.app).
 
 ## Areas of Interest
 
@@ -29,8 +30,8 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white)](https://www.php.net 'Linguagem de programação amplamente utilizada para desenvolvimento de serviços de API.')
 [![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=flat&logo=Lua&logoColor=white)](https://lua.org 'Linguagem de programação leve e fácil de aprender, frequentemente usada para scripts em jogos e outras aplicações.')
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com 'Linguagem de programação amplamente utilizada para desenvolver aplicações de software, desde aplicativos móveis até sistemas corporativos complexos.')
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/ 'Linguagem de programação moderna e orientada a objetos, desenvolvida pela Microsoft.')
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/ 'C é uma linguagem de programação de propósito geral, conhecida por sua eficiência e controle de baixo nível sobre o hardware.')
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/ 'Linguagem de programação moderna e orientada a objetos, desenvolvida pela Microsoft.')
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/ 'C é uma linguagem de programação de propósito geral, conhecida por sua eficiência e controle de baixo nível sobre o hardware.')
 
 ### Frontend & Web
 
@@ -50,7 +51,7 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org 'Plataforma de desenvolvimento que permite criar aplicações de servidor e ferramentas de rede usando JavaScript.')
 [![Node.ts](https://img.shields.io/badge/tsnode-3178C6.svg?style=flat&logo=ts-node&logoColor=white)](https://typestrong.org/ts-node/ 'Ferramenta que permite executar código TypeScript diretamente no ambiente Node.js, sem precisar transpilar para JavaScript.')
 [![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)](https://expressjs.com 'Framework para Node.js que facilita a criação de servidores web e APIs.')
-[![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=flat&logo=JSON-Web-Tokens&logoColor=white)](https://jwt.io/ '(JSON Web Token) é uma maneira segura de transmitir informações entre duas partes como um objeto JSON.')
+[![JWT](https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=JSON-Web-Tokens&logoColor=white)](https://jwt.io/ '(JSON Web Token) é uma maneira segura de transmitir informações entre duas partes como um objeto JSON.')
 [![Google Auth](https://img.shields.io/badge/Google%20Auth-4285F4.svg?style=flat&logo=google&logoColor=white)](https://developers.google.com/identity/gsi/web 'Serviço de autenticação para integração do login com contas Google.')
 
 ### Data & Storage
@@ -60,6 +61,7 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white)](https://www.mongodb.com/ 'Banco de dados NoSQL orientado a documentos.')
 [![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io 'Armazenamento de dados em memória, usado para cache e alta performance.')
 [![MinIO](https://img.shields.io/badge/MinIO-C72E49.svg?style=flat&logo=MinIO&logoColor=white)](https://min.io 'Armazenamento de objetos compatível com S3, usado para grandes volumes de dados.')
+[![RustFS](https://img.shields.io/badge/RustFS-C72E49.svg?style=flat&logo=RustFS&logoColor=white)](https://rustfs.com 'Sistema de arquivos S3 (parecido com Minio) distribuído de alto desempenho escrito em Rust.')
 
 ### Geospatial & Mapping
 
@@ -90,6 +92,7 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 ### CI/CD & Automation
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions 'Automatiza testes e a publicação de versões de bibliotecas no npm.')
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ci/ 'Pipelines para automatizar testes, builds e deploys no GitLab.')
 
 ### Developer Tools & Design
 
@@ -107,9 +110,11 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=Axios&logoColor=white)](https://axios-http.com/ 'Biblioteca para fazer requisições HTTP.')
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white)](https://insomnia.rest/ 'Ferramenta para testar APIs.')
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)](https://www.docker.com/ 'Plataforma para criar e gerenciar contêineres.')
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED.svg?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/compose/ 'Ferramenta para definir e executar aplicações com múltiplos contêineres.')
 [![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=flat&logo=NGINX&logoColor=white)](https://www.nginx.com 'Servidor web e proxy reverso.')
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com/ 'Sistema de controle de versão.')
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white)](https://github.com/ 'Plataforma para hospedagem de código.')
+[![GHCR](https://img.shields.io/badge/GHCR-181717.svg?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry 'Publicação de imagens Docker no GitHub Container Registry (GHCR).')
 [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6.svg?style=flat&logo=Hostinger&logoColor=white)](https://www.hostinger.com/ 'Serviço de hospedagem de sites.')
 [![Vonage](https://img.shields.io/badge/Vonage-FAFAFA.svg?style=flat&logo=Vonage&logoColor=black)](https://www.vonage.com/ 'Serviço de envio de SMS.')
 [![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/ 'Plataforma para implantar sites.')
