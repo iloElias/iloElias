@@ -38,6 +38,8 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)](https://www.w3.org/html/ "Linguagem usada para criar e estruturar páginas na web.")
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/ "Linguagem usada para descrever a aparência e o layout de páginas web.")
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)](https://reactjs.org/ "Biblioteca JavaScript para criar interfaces de usuário, focada em componentização.")
+[![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154.svg?style=flat&logo=tanstack&logoColor=white)](https://tanstack.com/query)
+[![TanStack Table](https://img.shields.io/badge/TanStack%20Table-FF4154.svg?style=flat&logo=tanstack&logoColor=white)](https://tanstack.com/table)
 [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/ "Framework de desenvolvimento web. Permite criar sites e aplicações web de forma rápida e eficiente, utilizando a linguagem JavaScript.")
 [![NextUI](https://img.shields.io/badge/NextUI-000000.svg?style=flat&logo=NextUI&logoColor=white)](https://nextui.org/ "Biblioteca de componentes de interface de usuário para React, que facilita a criação de interfaces modernas e responsivas.")
 [![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=flat&logo=MUI&logoColor=white)](https://mui.com/ "Biblioteca de componentes de interface de usuário para React, que facilita a criação de interfaces modernas e responsivas.")
@@ -80,6 +82,11 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 [![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/ "Gerenciador de pacotes para JavaScript, que permite aos desenvolvedores instalar, compartilhar e gerenciar dependências de código de forma eficiente.")
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=flat&logo=Yarn&logoColor=white)](https://yarnpkg.com/ "Gerenciador de pacotes para JavaScript que permite aos desenvolvedores instalar, atualizar e compartilhar código de forma rápida e eficiente.")
 [![Composer](https://img.shields.io/badge/Composer-885630.svg?style=flat&logo=Composer&logoColor=white)](https://getcomposer.org/ "Gerenciador de pacotes para PHP que permite aos desenvolvedores instalar, atualizar e compartilhar código de forma rápida e eficiente.")
+
+### Testing
+
+[![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+[![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7.svg?style=flat&logo=phpunit&logoColor=white)](https://phpunit.de/)
 
 ### CI/CD & Automation
 
