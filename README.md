@@ -15,7 +15,7 @@ Full-stack developer based in Brazil, focused on web development and geospatial 
 
 ## Contact
 
-[murilo7456@gmail.com](mailto:murilo7456@gmail.com) ![Profile views](https://hit.yhype.me/github/profile?user_id=106710958)
+[murilo7456@gmail.com](mailto:murilo7456@gmail.com) ![](https://hit.yhype.me/github/profile?account_id=106710958)
 
 ## Connect
 
